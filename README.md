@@ -4,6 +4,10 @@
 
 I am a fullstack JavaScript developer with 3+ years experience in building web applications using the latest technologies.
 
+I have been working as a fullstack developer since I began my journey in this industry working on React + Redux frontend connected to NodeJS + Express + GraphQL backend services.
+
+In my free time I usually always work on some personal projects using different/new technologies related to JavaScript. 
+
 ### Languages and tools I use:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
