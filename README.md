@@ -20,6 +20,12 @@ In my free time I usually always work on some personal projects using different/
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> </a>
 <br />
+
+### Methodologies I am familiar with:
+- BDD (Behaviour Driven Development)
+- TDD (Test Driven Development)
+- SAFe (Scaled Agile Framework)
+
 ### Let's connect
 
 <a href="www.linkedin.com/in/christopher-horn-a559b9175" target="_blank"><img align="left" alt="Chris H | LinkedIn" width="30px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /> </a>
