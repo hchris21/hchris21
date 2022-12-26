@@ -1,4 +1,4 @@
-## Welcome to my GitHub Profile, my name is Chris. 
+## Hi! I am Chris. 
 
 ### About me :computer:
 
