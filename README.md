@@ -1,6 +1,4 @@
-## Welcome to my GitHub Profile, my name is Chris.
-
-<a href="www.linkedin.com/in/christopher-horn-a559b9175" target="_blank"><img align="left" alt="Chris H | LinkedIn" width="30px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /> </a>
+## Welcome to my GitHub Profile, my name is Chris. <a href="www.linkedin.com/in/christopher-horn-a559b9175" target="_blank"><img align="left" alt="Chris H | LinkedIn" width="30px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" /> </a>
 
 <br/>
 <br/>
