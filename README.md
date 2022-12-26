@@ -8,6 +8,11 @@ I have been working as a fullstack developer since I began my journey in this in
 
 In my free time I usually always work on some personal projects using different/new technologies related to JavaScript. 
 
+### Methodologies I am familiar with:
+- BDD (Behaviour Driven Development)
+- TDD (Test Driven Development)
+- SAFe (Scaled Agile Framework)
+
 ### Languages and tools I use:
 
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
@@ -21,10 +26,6 @@ In my free time I usually always work on some personal projects using different/
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> </a>
 <br />
 
-### Methodologies I am familiar with:
-- BDD (Behaviour Driven Development)
-- TDD (Test Driven Development)
-- SAFe (Scaled Agile Framework)
 
 ### Let's connect
 
