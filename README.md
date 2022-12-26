@@ -13,7 +13,7 @@ I am a fullstack JavaScript developer with 3+ years experience in building web a
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" /></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> </a>
 
 ## Let's connect
 
