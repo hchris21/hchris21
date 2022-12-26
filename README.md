@@ -15,6 +15,7 @@ In my free time I usually always work on some personal projects using different/
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" /></a>
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="ReactJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></a>
+<a href="https://https://redux.js.org/" target="_blank"><img align="left" alt="ReduxJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" /></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></a>
 <a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> </a>
