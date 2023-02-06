@@ -13,8 +13,9 @@ In my free time I usually always work on some personal projects using different/
 - TDD (Test Driven Development)
 - SAFe (Scaled Agile Framework)
 
-### Languages and tools I use:
+### Languages and tools:
 
+#### Professional, proven experience:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></a>
@@ -23,7 +24,12 @@ In my free time I usually always work on some personal projects using different/
 <a href="https://https://redux.js.org/" target="_blank"><img align="left" alt="ReduxJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" /></a>
 <a href="https://graphql.org/" target="_blank"><img align="left" alt="GraphQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" /></a>
-<a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> </a>
+
+<br/>
+
+#### Experimenting:
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="30px" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" /> </a>
 <br />
 
 
