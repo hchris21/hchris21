@@ -2,7 +2,7 @@
 
 ### About me :computer:
 
-I am a fullstack JavaScript developer with 3+ years experience in building web applications using the latest technologies.
+I am a fullstack JavaScript developer with several years of experience in building web applications using the latest technologies.
 
 I have been working as a fullstack developer since I began my journey in this industry working on React + Redux frontend connected to NodeJS + Express + GraphQL backend services.
 
