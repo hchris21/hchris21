@@ -2,9 +2,9 @@
 
 ### About me :computer:
 
-I am a fullstack JavaScript developer with several years of experience in building web applications using the latest technologies.
+I am a Senior Frontend Engineer with several years of experience in building web applications using the latest technologies.
 
-I have been working as a fullstack developer since I began my journey in this industry working on React + Redux frontend connected to NodeJS + Express + GraphQL backend services.
+I began my journey in this industry working on React + Redux frontend connected to NodeJS + Express + GraphQL backend services.
 
 In my free time I usually always work on some personal projects using different/new technologies related to JavaScript. 
 
