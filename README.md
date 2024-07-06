@@ -3,7 +3,7 @@
     <a href="https://hornxengineering.dev">
         <img alt="Static Badge" src="https://img.shields.io/badge/hornxengineering.dev-blue?style=for-the-badge&logo=homepage&logoColor=darkblue">
     </a>
-    <a href="www.linkedin.com/in/christopher-horn-a559b9175">
+    <a href="https://www.linkedin.com/in/christopher-horn-a559b9175">
         <img alt="Static Badge" src="https://img.shields.io/badge/-%40christopher_horn-blue?style=for-the-badge&logo=linkedin&logoSize=auto&labelColor=linkedin&color=%230e76a8">
     </a>
 </p>
