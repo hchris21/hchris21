@@ -30,9 +30,8 @@
 <hr>
 <h3 align='center'>📰 Read my latest articles</h3>
 <!-- BLOG-POST-LIST:START -->
-
+- [RSS Feed with Next.js App router](https://hornxengineering.dev/blog/rss-feed-nextjs)
 - [TDD with React](https://hornxengineering.dev/blog/tdd-with-react)
 - [MacBook Air M1 vs Pro M3 Pro](https://hornxengineering.dev/blog/macbook-comparison)
 - [Introduction](https://hornxengineering.dev/blog/introduction)
-
 <!-- BLOG-POST-LIST:END -->
