@@ -31,7 +31,6 @@
 <h3 align='center'>📰 Read my latest articles</h3>
 <!-- BLOG-POST-LIST:START -->
 
-- [RSS Feed with Next.js App router](https://hornxengineering.dev/blog/rss-feed-nextjs)
 - [Full Circle: My VS Code -&gt; Neovim -&gt; VS Code Journey](https://hornxengineering.dev/blog/neovim)
 - [TDD with React](https://hornxengineering.dev/blog/tdd-with-react)
 - [MacBook Air M1 vs Pro M3 Pro](https://hornxengineering.dev/blog/macbook-comparison)
