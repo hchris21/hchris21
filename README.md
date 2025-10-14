@@ -23,7 +23,7 @@
 
 <hr>
 <h3 align='center'>💻 About me</h3>
-<div>Hi! I'm Chris, a freelance/contract Senior Frontend Engineer based in Romania. My primary focus is on building scalable, maintainable, and performant web applications. With a bachelor's and master's degree in Business Informatics and over 4.5 years of
+<div>Hi! I'm Chris, a freelance/contract Senior Frontend Engineer based in Romania. My primary focus is on building scalable, maintainable, and performant web applications. With a bachelor's and master's degree in Business Informatics and over 6 years of
     professional experience, I aim to deliver high-quality solutions that meet my clients' needs. I also enjoy and have experience mentoring junior developers to help them grow as professionals. At the same time I have a personal portfolio where I also
     write articles about web development, tech gadgets and other similar topics.</div>
 
