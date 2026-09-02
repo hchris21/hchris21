@@ -1,6 +1,6 @@
 <h1 align='center'>Christopher Horn - Frontend Engineer</h1>
 <p align="center">
-    <a href="https://hornxengineering.dev">
+    <a href="https://chrishorn.dev/">
         <img alt="Static Badge" src="https://img.shields.io/badge/hornxengineering.dev-blue?style=for-the-badge&logo=homepage&logoColor=darkblue">
     </a>
     <a href="https://www.linkedin.com/in/christopher-horn-a559b9175">
